@@ -1,0 +1,24 @@
+{
+  "name": "manas_sdet_take_home_exercise",
+  "version": "1.0.0",
+  "description": "Take-home coding challenge for an SDET role at Fetch",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManasBhole/Take-Home-Exercise.git"
+  },
+  "author": "Manas Bhole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManasBhole/Take-Home-Exercise/issues"
+  },
+  "homepage": "https://github.com/ManasBhole/Take-Home-Exercise#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.3",
+    "node": "^18.15.0",
+    "typescript": "^5.2.2"
+  }
+}
